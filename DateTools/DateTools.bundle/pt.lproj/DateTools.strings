@@ -69,3 +69,12 @@
 
 /* No comment provided by engineer. */
 "This year" = "Este ano";
+
+/* Short format for */
+"%dy" = "%d ano"; // year
+"%dM" = "%d mês"; // month
+"%dw" = "%d sem"; // week
+"%dd" = "%d dia"; // day
+"%dh" = "%d hora"; // hour
+"%dm" = "%d min"; // minute
+"%ds" = "%d seg"; // second
